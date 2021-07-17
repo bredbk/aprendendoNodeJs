@@ -15,5 +15,4 @@ const users = [
         email: 'arturvis@gmail.com'
     }
 ]
-
 module.exports = users;
